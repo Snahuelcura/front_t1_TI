@@ -1,0 +1,27 @@
+.user-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    
+}
+.user-info img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+
+
+.post-image {
+    width: 500px; /* Ancho deseado */
+    height: auto; /* Altura automática para mantener la proporción */
+  }
+.comment-avatar {
+    width: 400px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
