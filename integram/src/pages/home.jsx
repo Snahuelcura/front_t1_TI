@@ -294,7 +294,7 @@ function Home() {
                     ))}
                 </ul>
             </div>
-            <a href="/perfil">Perfil</a>
+            
         </div>
     );
 }
